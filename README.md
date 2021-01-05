@@ -1,2 +1,2 @@
 # madsrt.github.io
-Sandbox project - personal website
+Mads Rosendahl Thomsen's personal website
